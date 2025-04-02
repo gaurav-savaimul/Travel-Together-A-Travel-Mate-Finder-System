@@ -176,7 +176,7 @@ Group Chat</a><?php
     <script src="new/dependencies/magnific-popup/js/jquery.magnific-popup.min.js"></script>
     <script src="new/dependencies/bootstrap-validator/js/validator.min.js"></script>
     <script src="new/dependencies/select2/js/select2.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtmXSwv4YmAKtcZyyad9W7D4AC08z0Rb4"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key="></script>
 
     <!-- Site Scripts -->
     <script src="new/assets/js/app.js"></script>
