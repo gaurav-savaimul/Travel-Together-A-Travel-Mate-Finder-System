@@ -243,11 +243,7 @@
                                             <img src="new/media/team/team_1.jpg" alt="team">
                                         </a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" data-toggle="tab" href="#team2" role="tab" aria-selected="false">
-                                            <img src="new/media/team/team_5.jpg" alt="team">
-                                        </a>
-                                    </li>
+                                    
                                     <li class="nav-item">
                                         <a class="nav-link" data-toggle="tab" href="#team3" role="tab" aria-selected="false">
                                             <img src="new/media/team/team_6.jpg" alt="team">
@@ -257,11 +253,6 @@
                             </div>
                             <div class="col-lg-4 col-sm-6 order-lg-3">
                                 <ul class="nav nav-tabs nav-tabs-right" role="tablist">
-                                    <li class="nav-item">
-                                        <a class="nav-link" data-toggle="tab" href="#team4" role="tab" aria-selected="false">
-                                            <img src="new/media/team/team_3.jpg" alt="team">
-                                        </a>
-                                    </li>
                                     <li class="nav-item">
                                         <a class="nav-link" data-toggle="tab" href="#team5" role="tab" aria-selected="false">
                                             <img src="new/media/team/team_4.jpg" alt="team">
@@ -282,19 +273,8 @@
                                                 <img src="new/media/team/team_1.jpg" alt="team">
                                             </div>
                                             <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Ketty Rio</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="team2" role="tabpanel">
-                                        <div class="team-box">
-                                            <div class="item-img">
-                                                <img src="new/media/team/team_5.jpg" alt="team">
-                                            </div>
-                                            <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Johnson John</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
+                                                <h3 class="item-title"><a href="user-timeline.html">Gaurav Savaimul</a></h3>
+                                                <div class="group-count"><span>23</span> - Developer</div>
                                             </div>
                                         </div>
                                     </div>
@@ -304,19 +284,8 @@
                                                 <img src="new/media/team/team_6.jpg" alt="team">
                                             </div>
                                             <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Fahim Rahman</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="team4" role="tabpanel">
-                                        <div class="team-box">
-                                            <div class="item-img">
-                                                <img src="new/media/team/team_3.jpg" alt="team">
-                                            </div>
-                                            <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Mamunur Rashid</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
+                                                <h3 class="item-title"><a href="user-timeline.html">Yash Hatgoankar</a></h3>
+                                                <div class="group-count"><span>25</span> - Debugging</div>
                                             </div>
                                         </div>
                                     </div>
@@ -326,8 +295,8 @@
                                                 <img src="new/media/team/team_4.jpg" alt="team">
                                             </div>
                                             <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Ketty Rio</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
+                                                <h3 class="item-title"><a href="user-timeline.html">Nimisha Rajgure</a></h3>
+                                                <div class="group-count"><span>23</span> - Research & Design</div>
                                             </div>
                                         </div>
                                     </div>
@@ -337,8 +306,8 @@
                                                 <img src="new/media/team/team_7.jpg" alt="team">
                                             </div>
                                             <div class="item-content">
-                                                <h3 class="item-title"><a href="user-timeline.html">Ketty Rio</a></h3>
-                                                <div class="group-count"><span>25</span> - Fashion</div>
+                                                <h3 class="item-title"><a href="user-timeline.html">Sgarvari Dahe</a></h3>
+                                                <div class="group-count"><span>23</span> - Project Manager</div>
                                             </div>
                                         </div>
                                     </div>
@@ -564,7 +533,7 @@
     <script src="new/dependencies/popper.js/js/popper.min.js"></script> <!-- Popper.js is a library used for positioning poppers (tooltips, popovers, dropdowns, etc.) -->
     <script src="new/dependencies/bootstrap/js/bootstrap.min.js"></script> <!--front-end framework, provides pre-styled components and a grid system for layout -->
     <script src="new/dependencies/imagesloaded/js/imagesloaded.pkgd.min.js"></script> <!-- detects when images have been loaded in the browser.-->
-    <script src="new/dependencies/isotope-layout/js/isotope.pkgd.min.js"></script> <!-- used for creating dynamic and responsive layouts, as portfolios or image gallerie-->
+    <script src="new/dependencies/isotope-layout/js/isotope.pkgd.min.js"></script> <!-- used for creating dynamic and responsive layouts, as portfolios or image galleries -->
     <script src="new/dependencies/slick-carousel/js/slick.min.js"></script> <!--reponsive slideshows of images-->
     <script src="new/dependencies/sal.js/sal.js"></script> <!--lightweight animation on enter , exit -->
     <script src="new/dependencies/magnific-popup/js/jquery.magnific-popup.min.js"></script> <!--dialog script with focus on performance and providing best experience  -->
