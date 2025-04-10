@@ -30,3 +30,6 @@ Our project is an innovative web-based social media platform designed to inspire
 | 🌐 **Server & Env.**   | XAMPP, phpMyAdmin              |
 | 📌 **Frameworks & Libs**| Bootstrap for responsive UI                      |
 | 🔄 **Server-Side Scripting** | PHP for dynamic content and database interactions |
+
+## 📸
+![Home Page](./Screenshots/TravelBuddy.jpeg)
